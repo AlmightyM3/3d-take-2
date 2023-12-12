@@ -1,0 +1,43 @@
+{
+    "name": "3d take 2",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#7F7F7F",
+        "#FF0000",
+        "#7F0000",
+        "#00FF00",
+        "#007F00",
+        "#0000FF",
+        "#00007F",
+        "#FFFF00",
+        "#7F7F00",
+        "#00FFFF",
+        "#007F7F",
+        "#FF00FF",
+        "#7F007F",
+        "#000000"
+    ]
+}
